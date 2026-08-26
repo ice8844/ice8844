@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+
+#board {
+    background-color: lightskyblue;
+    border-bottom: 30px solid limegreen;
+}
